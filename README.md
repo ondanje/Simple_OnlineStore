@@ -68,7 +68,11 @@ Before you begin, ensure you have the following installed:
 
    ```
    python manage.py runserver
+
    ```
+## Displaying image
+
+![Dashboard Image](PreviewImages/onlinestore1.png)
 
 ## Usage
 
@@ -99,5 +103,5 @@ If you would like to contribute to this project, because I would like help to in
 - Thanks to the Django community for creating an amazing web framework.
 - Special thanks to our contributors for their efforts in developing and maintaining this project.
 - And above all special thanks to 'Youtube University'😂
-  
+
 Happy shopping 🛒🌟
